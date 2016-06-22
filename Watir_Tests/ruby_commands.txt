@@ -1,0 +1,10 @@
+set HOME=
+set HOMEDRIVE=
+set HOMEPATH=
+set HOMESHARE=
+set RDOCOPT="--encoding=UTF-8"
+set RDOCOPT=--encoding=UTF-8
+gem install watir-webdriver
+gem install ci_reporter
+gem install test-unit
+gem install funfx
